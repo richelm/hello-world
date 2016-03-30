@@ -1,2 +1,3 @@
 # hello-world
-Hello-World repository created as part of the github tutorial
+
+Been using github for a while now, but never used branches. 
